@@ -13,5 +13,4 @@ Example user input: <first_line_index> <second_line_index>  
 b. Switch word at specific index in one line with a word with specific index from another line. The user should provide four indexes and the application should	switch the word from the first line with the word from the second line.  
 Example user input:  <first_line_index> <first_line_word_index> <second_line_index> <second_line_word_index>  
 
- 
 4. The result is stored in the same file after applications is closed.  
