@@ -1,4 +1,4 @@
-# Javaproject
+# Text editor
  Command-line application that allows the user to manipulate text files
 
 1. Loading and saving of .txt files that contain multiple lines of words separated by space or tab. 
